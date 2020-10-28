@@ -1,0 +1,128 @@
+body{
+    
+    font-family: Ubuntu;
+    font-weight: 700;
+    font-weight:bolder;
+}
+.header-section{
+    background-color:#FF0067;
+    height: 100%;
+   position:relative;
+    z-index: 1;
+}
+.iphonedog-image{
+    height:60%;
+    margin-left:3.5em;
+    transform: rotate(20deg);
+    margin-top:4.5em;
+   
+}
+.head-margin{
+    margin-top:40px; 
+    height:30em;
+    
+}
+.nav-margin{
+    margin-left:18px;
+    margin-right:18px;
+}
+.heading{
+    color:white;
+    font-size:4.5rem;
+    line-height: 80px;
+    
+
+}
+.button-margin{
+    margin:30px 10px;
+    
+}
+.internal-margin{
+    margin-top:0;
+    position:relative;
+    z-index:1;
+    background-color:white;
+}
+.icon-size{
+    font-size:4.225em;
+    color:#d65f8f;
+    margin-bottom:1px;
+    margin-top:2em;
+}
+.internal-text{
+    text-align:center;
+    font-weight: bold;
+}
+.text-under{
+    color:#bdbbbb;
+    font-weight: 200;
+}
+.pic-under{
+    background: #ee5767;
+    margin-top:8em;
+    padding-bottom:90px;
+}
+.pic-text{
+    color:white;
+    font-size:2.5em;
+    line-height: 1.5em;
+    padding-top:20px;
+    
+}
+.container{
+    text-align:center;
+}
+.dog-image{
+    border-radius:100%;
+    height:100px;
+    width:100px;
+    margin-left:20px;
+    
+}
+/* #ee5767 */
+.dog-tittle{
+    color:#bdbbbb;
+    letter-spacing: 2px;
+    margin-left:15px;
+
+}
+.company-logo{
+    height:80%;;
+    width:80%;  
+}
+.logo-margin{
+    margin-top:50px;
+}
+.price-section{
+    background-color:white;
+    padding-top:5em;
+    padding-bottom:5em;
+}
+.button-size{
+    width:100%;
+}
+.card-header{
+    font-weight: 800;
+}
+.card-section{
+    margin-top:60px;
+}
+.last-section{
+    background-color:#FF0067;
+    padding:4.77em;
+    color:white;
+}
+.last-text{
+    font-size:2.5em;
+    line-height: 1.5em;
+}
+.footer-section{
+    padding-top:100px;
+    padding-bottom:100px;
+}
+
+.links{
+    color:black;
+    margin-right:20px;
+    font-size:2em;
+}
